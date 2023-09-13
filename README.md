@@ -19,3 +19,7 @@ Model Training: We train a Logistic Regression classifier on the training data t
 Model Evaluation: We evaluate the model's accuracy on both the training and testing sets.
 
 Spam Classification: We demonstrate how to use the trained model to classify new messages as 'Spam' or 'Ham'.
+
+**Conclusion:**
+This project provides a simple yet effective approach to classify email messages as spam or ham using machine learning. 
+You can use the trained model to enhance your email filtering or spam detection systems.
